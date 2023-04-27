@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/react-payments/static/js/main.d1fe84b5.js",
+    "main.js": "/react-payments/static/js/main.49f69c18.js",
     "static/media/Shinhan-card.svg": "/react-payments/static/media/Shinhan-card.f6a900289802d7dc2cd3c31dfe1a2e62.svg",
     "static/media/BC-card.svg": "/react-payments/static/media/BC-card.89713c873be4a243a3b130cba981f97c.svg",
     "static/media/Kakao-card.svg": "/react-payments/static/media/Kakao-card.68708857191e519d54df8ba23b649eab.svg",
@@ -10,9 +10,9 @@
     "static/media/Kookmin-card.svg": "/react-payments/static/media/Kookmin-card.b4e41428608b44656b624a438bd9f3e4.svg",
     "static/media/Hana-card.svg": "/react-payments/static/media/Hana-card.a6c2ae1f8e68d334ac04e660debd23f4.svg",
     "index.html": "/react-payments/index.html",
-    "main.d1fe84b5.js.map": "/react-payments/static/js/main.d1fe84b5.js.map"
+    "main.49f69c18.js.map": "/react-payments/static/js/main.49f69c18.js.map"
   },
   "entrypoints": [
-    "static/js/main.d1fe84b5.js"
+    "static/js/main.49f69c18.js"
   ]
 }
